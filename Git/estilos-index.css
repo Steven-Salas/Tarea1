@@ -1,0 +1,22 @@
+
+#header{
+    background-color: rgb(73, 216, 48);
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#fila1{
+    margin-top: 2%;
+    color: rgb(104, 104, 104);
+    text-align: center;
+}
+
+#fila1 h4{
+    color: rgb(233, 0, 0);
+}
+
+#footer{
+    background-color: rgb(73, 216, 48);
+    color: white;
+}
